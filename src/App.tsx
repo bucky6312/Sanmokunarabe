@@ -75,7 +75,7 @@ export default function Game() {
     setCurrentMove(nextHistory.length - 1);
   }
 
-  function jumpTo(nextMove) {
+  function jumpTo(nextMove:number) {
     setCurrentMove(nextMove);
   }
   
