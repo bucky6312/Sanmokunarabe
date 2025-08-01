@@ -1,0 +1,10 @@
+.square {
+  height: 100px;
+  width: 100px;
+}
+.board-row{
+  display: flex;
+}
+.Square-value{
+  font-size: 100px;
+}
